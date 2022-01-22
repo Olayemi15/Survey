@@ -1,0 +1,54 @@
+body {
+  background-image: url(img/coffee.jpg);
+  background-position: cover;
+  text-align: left;
+}
+
+.top-work {
+  border: 1px solid;
+  border-radius: 4px;
+}
+
+.bb {
+  font-weight: bold;
+  color: whitesmoke;
+}
+
+.aa {
+  font-style: italic;
+  color: whitesmoke;
+}
+
+.forms {
+  border: 1px solid;
+}
+.details {
+  color: whitesmoke;
+  font: italic;
+  margin-left: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+input.kp {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 5px;
+  border-radius: 10px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+.ty {
+  margin-left: 10px;
+  padding-left: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-top: 10px;
+}
+
+input.kpk {
+  margin-left: 10px;
+  padding-right: 80px;
+  padding-bottom: 60px;
+  padding-left: 5px;
+}
